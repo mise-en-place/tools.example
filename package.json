@@ -1,11 +1,11 @@
 {
-  "name": "mep-tools.example",
+  "name": "mep-tools.example-one",
   "version": "1.0.0",
   "description": "Example Tool",
   "main": "stylesheets/_example.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "example",
+    "name": "example-one",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
